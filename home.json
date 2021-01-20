@@ -1,0 +1,22 @@
+[
+	{
+		"companies": [
+			{
+				"companyName": "contentstack",
+				"logo": "https://www.contentstack.com/favicon.ico",
+				"url": "/companies/contentstack"
+			},
+			{
+				"companyName": "raweng",
+				"logo": "https://www.raweng.com/icons/icon-144x144.png",
+				"url": "/companies/raweng"
+			},
+			{
+				"companyName": "surfboard",
+				"logo": "https://www.surfboardventures.com/favicon.ico",
+				"url": "/companies/surfboard"
+			}
+		],
+		"backgroundImage": "https://cdn.dribbble.com/users/343382/screenshots/2057617/12-light-leaks-low-poly-polygonal-geometrical-triangular-textures-backgrounds.gif"
+	}
+]
