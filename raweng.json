@@ -1,12 +1,7 @@
 [
 	{
-		"companyLogo": "https://www.raweng.com/v3/assets/bltaacb6b0c9b693c2d/bltc1a71705f49d391d/5de663548d1dce6ad6bed8bf/header-logo.svg?format=pjpg&width=220",
-		"icon": "https://www.raweng.com/icons/icon-144x144.png",
-		"bannerImage": "https://www.raweng.com/v3/assets/bltaacb6b0c9b693c2d/blte86401d468e74845/5e3137f08f7e217daef66f54/Landing_Page_Image_Motion.jpg?format=pjpg&width=540",
-		"headContent": {
-			"heading": "Fast Track Innovation From Vision to Reality",
-			"content": "Raw Engineering’s experienced Strategic Consultants, Solutions Architects, Designers, and Developers turn Business Vision into Digital Reality."
-		},
+		"heading": "Fast Track Innovation From Vision to Reality",
+		"content": "Raw Engineering’s experienced Strategic Consultants, Solutions Architects, Designers, and Developers turn Business Vision into Digital Reality.",
 		"mainContent": [
 			{
 				"title": "Digital Transformation: Building the Modern Microservices Stack",
@@ -28,12 +23,6 @@
 				"image": "https://www.raweng.com/v3/assets/bltaacb6b0c9b693c2d/blt573767a4004d6b02/5e3138cb5b0dbe756af01636/DevOps_&_Cloud_Management_resized.png?format=pjpg&width=590",
 				"content": "DevOps & Cloud Management is in our DNA. Our company was founded to help clients move infrastructure to the Cloud and to maintain their infrastructure in the Cloud. We became an AWS partner is 2007, and have been expanding our services since to include MS Azure, Google Cloud, CI/CD, etc."
 			}
-		],
-		"footerLinks": {
-			"twitter": "https://twitter.com/raweng",
-			"linkedin": "https://www.linkedin.com/company/raw-engineering",
-         "facebook": "https://www.facebook.com/rawengineering/",
-         "instagram": "https://www.instagram.com/raw.engineering/"
-		}
+		]
 	}
 ]
